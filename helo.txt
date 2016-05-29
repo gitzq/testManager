@@ -1,1 +1,6 @@
-my has modify 
+ 
+has modify 
+
+and 
+master has modify
+ 
